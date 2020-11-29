@@ -1,1 +1,1 @@
-/usr/share/backgrounds/smd-arch/galaxy-2560x1600.png
+/usr/share/backgrounds/smdlinux/galaxy-2560x1600.png
